@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cocina - Lowpoly
+* source:	https://sketchfab.com/3d-models/cocina-lowpoly-92c07eb07c134106af3e0c2bfcb4fc7e
+* author:	media_mas (https://sketchfab.com/media_mas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cocina - Lowpoly" (https://sketchfab.com/3d-models/cocina-lowpoly-92c07eb07c134106af3e0c2bfcb4fc7e) by media_mas (https://sketchfab.com/media_mas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
